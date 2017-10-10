@@ -1,0 +1,11 @@
+{
+  "name": "hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dinosaur.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
